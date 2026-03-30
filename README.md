@@ -1,4 +1,4 @@
-I'm Sonam
+I'm Sonam.
 I am a First Year B.Tech Student at VIT Bhopal University.
 I am a beginner in the field of technology and currently exploring different programming languages and digital skills. I am eager to learn new technologies and grow step by step.
 
