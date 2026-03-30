@@ -1,16 +1,20 @@
-## Hi there 👋
+I'm Sonam
+I am a First Year B.Tech Student at VIT Bhopal University.
+I am a beginner in the field of technology and currently exploring different programming languages and digital skills. I am eager to learn new technologies and grow step by step.
 
-<!--
-**sonam25bcy10073/Sonam25bcy10073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I am currently learning
+- Python, C++
+- GitHub and version control  
+- Digital literacy tools  
 
-Here are some ideas to get you started:
+# What I want to learn in future
+- Become expert in coding  
+- Build real-world projects  
+- Learn web development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Interests
+- Technology & Innovation  
+- Problem Solving  
+- Continuous Learning  
+
+ This GitHub profile will show my progress and projects.
